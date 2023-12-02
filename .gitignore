@@ -1,0 +1,5 @@
+build/
+output/
+main.spec
+.env
+.DS_Store
